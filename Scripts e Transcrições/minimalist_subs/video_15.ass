@@ -1,0 +1,34 @@
+[Script Info]
+Title: Minimalist Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: SubtitleMinimal,Arial,68,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,320,1
+Style: TitleMinimal,Arial,52,&H0000FFFF,&H00FFFFFF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,4,2,8,60,60,1650,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:45.00,TitleMinimal,,0,0,0,,O QUE PSICOLOGIA TEM A VER COM IA?
+Dialogue: 0,0:00:00.00,0:00:00.30,SubtitleMinimal,,0,0,0,,Deve ser muito melhor pra aprender, né?
+Dialogue: 0,0:00:00.30,0:00:02.30,SubtitleMinimal,,0,0,0,,Tipo, eu gosto muito de neurofinquência, só apaixonada
+Dialogue: 0,0:00:02.30,0:00:05.30,SubtitleMinimal,,0,0,0,,Tipo, pra mim tudo tem que ser baseado em neurofinquência, baseado em evidência
+Dialogue: 0,0:00:05.30,0:00:10.30,SubtitleMinimal,,0,0,0,,Tipo, eu estudo o YA e programação, só que eu estou fazendo faculdade de psicologia
+Dialogue: 0,0:00:11.30,0:00:13.30,SubtitleMinimal,,0,0,0,,Aí, tipo assim, nossa velho
+Dialogue: 0,0:00:13.30,0:00:15.30,SubtitleMinimal,,0,0,0,,Eu vou, nossa apaixonada, tipo assim, tudo eu aplico
+Dialogue: 0,0:00:15.30,0:00:20.30,SubtitleMinimal,,0,0,0,,Porque é um negócio que cara, parece que não, mas tem muito a ver, tipo assim, tem muito a ver tudo
+Dialogue: 0,0:00:20.30,0:00:22.30,SubtitleMinimal,,0,0,0,,Não sei explicar
+Dialogue: 0,0:00:22.30,0:00:25.30,SubtitleMinimal,,0,0,0,,E, mas fazendo isso, que o que é assim?
+Dialogue: 0,0:00:25.30,0:00:28.30,SubtitleMinimal,,0,0,0,,É, que o pessoal faz pra conseguir mais barato
+Dialogue: 0,0:00:28.30,0:00:30.30,SubtitleMinimal,,0,0,0,,Tem algumas bandeiras
+Dialogue: 0,0:00:30.30,0:00:32.30,SubtitleMinimal,,0,0,0,,Tem esse negócio do AWS que eu falei
+Dialogue: 0,0:00:32.30,0:00:34.30,SubtitleMinimal,,0,0,0,,Gente, vou mostrar uma plataforma pra vocês
+Dialogue: 0,0:00:36.30,0:00:39.30,SubtitleMinimal,,0,0,0,,Que ela, eu não sei se eu ainda estou pagando ela, porque ela é um pouquinho cara
+Dialogue: 0,0:00:39.30,0:00:41.30,SubtitleMinimal,,0,0,0,,Ela é gringa que eu descobri uma comunidade
+Dialogue: 0,0:00:42.30,0:00:43.30,SubtitleMinimal,,0,0,0,,Tá, eu ainda estou com ela
+Dialogue: 0,0:00:43.30,0:00:45.00,SubtitleMinimal,,0,0,0,,É, só quando eu fui aprovada, eu não sei

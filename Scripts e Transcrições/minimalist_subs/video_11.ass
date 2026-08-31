@@ -1,0 +1,39 @@
+[Script Info]
+Title: Minimalist Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: SubtitleMinimal,Arial,68,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,320,1
+Style: TitleMinimal,Arial,52,&H0000FFFF,&H00FFFFFF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,4,2,8,60,60,1650,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:55.00,TitleMinimal,,0,0,0,,R$ 3 = US$ 100?
+Dialogue: 0,0:00:00.00,0:00:00.30,SubtitleMinimal,,0,0,0,,Pra comprar pro algum motivo, ele não tá habilitado agora
+Dialogue: 0,0:00:00.30,0:00:02.30,SubtitleMinimal,,0,0,0,,Ele é o das reais que eu falei
+Dialogue: 0,0:00:02.30,0:00:04.30,SubtitleMinimal,,0,0,0,,Tipo assim, você paga 3 reais, você tem 100 dólares
+Dialogue: 0,0:00:04.30,0:00:06.30,SubtitleMinimal,,0,0,0,,Deixa eu mostrar pra vocês
+Dialogue: 0,0:00:06.30,0:00:08.30,SubtitleMinimal,,0,0,0,,Eu vou mostrar minha tela inteira
+Dialogue: 0,0:00:08.30,0:00:12.30,SubtitleMinimal,,0,0,0,,Compenha essa tela aqui do meio pra vocês verem como é dentro do site
+Dialogue: 0,0:00:12.30,0:00:14.30,SubtitleMinimal,,0,0,0,,É esse daqui, tá vendo?
+Dialogue: 0,0:00:14.30,0:00:16.30,SubtitleMinimal,,0,0,0,,Ó, eu já gastei um pouco aqui pra vocês veíram, ó
+Dialogue: 0,0:00:16.30,0:00:18.30,SubtitleMinimal,,0,0,0,,Que eu tava testando
+Dialogue: 0,0:00:18.30,0:00:22.30,SubtitleMinimal,,0,0,0,,É, 47 centavos de dólares
+Dialogue: 0,0:00:22.30,0:00:24.30,SubtitleMinimal,,0,0,0,,Já testado um dia
+Dialogue: 0,0:00:26.30,0:00:30.30,SubtitleMinimal,,0,0,0,,Aí tipo assim, que dá pra acompanhar o uso, né
+Dialogue: 0,0:00:33.30,0:00:35.30,SubtitleMinimal,,0,0,0,,Aqui tem essa pís
+Dialogue: 0,0:00:35.30,0:00:37.30,SubtitleMinimal,,0,0,0,,Tem uns toques que eu já testei, ó, quando deu
+Dialogue: 0,0:00:37.30,0:00:39.30,SubtitleMinimal,,0,0,0,,Eu acho que é o preço normal, que nem eu falei
+Dialogue: 0,0:00:39.30,0:00:41.30,SubtitleMinimal,,0,0,0,,É barato pra você comprar
+Dialogue: 0,0:00:41.30,0:00:43.30,SubtitleMinimal,,0,0,0,,Pais 100 dólares, sai mais mais 3 reais
+Dialogue: 0,0:00:43.30,0:00:45.30,SubtitleMinimal,,0,0,0,,Mas isso é que é o preço original
+Dialogue: 0,0:00:45.30,0:00:49.30,SubtitleMinimal,,0,0,0,,Eu gastei 3 dólares de cloud, foi
+Dialogue: 0,0:00:49.30,0:00:51.30,SubtitleMinimal,,0,0,0,,Um milhão de tokens
+Dialogue: 0,0:00:51.30,0:00:53.30,SubtitleMinimal,,0,0,0,,E 56 cc
+Dialogue: 0,0:00:53.30,0:00:55.00,SubtitleMinimal,,0,0,0,,Se eu não me engano, esse daqui foi do Feibold 5, viu?

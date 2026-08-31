@@ -1,0 +1,14 @@
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.wav
+*.mp3
+*.jpg
+*.png
+*.zip
+*.tar.gz
+*.log
+_tmp*
+_base*
+_concat*

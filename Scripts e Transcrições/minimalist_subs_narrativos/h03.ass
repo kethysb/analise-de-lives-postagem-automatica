@@ -1,0 +1,53 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,58,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,3,0,2,80,80,360,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.00,Default,,0,0,0,,Cara, o meu plano é, tipo assim,
+Dialogue: 0,0:00:02.00,0:00:04.00,Default,,0,0,0,,criar minha própria empresa
+Dialogue: 0,0:00:04.00,0:00:06.00,Default,,0,0,0,,e fazer um negócio realmente muito escalável.
+Dialogue: 0,0:00:06.00,0:00:08.00,Default,,0,0,0,,O problema é que, tipo assim, eu quero
+Dialogue: 0,0:00:08.00,0:00:10.00,Default,,0,0,0,,fazer um negócio bem feito, entendeu?
+Dialogue: 0,0:00:10.00,0:00:12.00,Default,,0,0,0,,Eu acho que eu já poderia, tipo assim, colocar um negócio,
+Dialogue: 0,0:00:12.00,0:00:14.00,Default,,0,0,0,,eu já poderia, tipo, ter lançado
+Dialogue: 0,0:00:14.00,0:00:16.00,Default,,0,0,0,,alguma coisa faz muito tempo.
+Dialogue: 0,0:00:16.00,0:00:18.00,Default,,0,0,0,,Só que eu não quero entregar algo ruim,
+Dialogue: 0,0:00:18.00,0:00:20.00,Default,,0,0,0,,eu quero entregar algo bom, um supacinho,
+Dialogue: 0,0:00:20.00,0:00:22.00,Default,,0,0,0,,desde o início, pra não me não descepcionar
+Dialogue: 0,0:00:22.00,0:00:24.00,Default,,0,0,0,,ninguém, entendeu? E também eu quero algo
+Dialogue: 0,0:00:24.00,0:00:26.00,Default,,0,0,0,,que eu não precise trabalhar tanto.
+Dialogue: 0,0:00:26.00,0:00:28.00,Default,,0,0,0,,Eu quero algo automático, que eu só
+Dialogue: 0,0:00:28.00,0:00:30.00,Default,,0,0,0,,precise, tipo assim, em manutenção,
+Dialogue: 0,0:00:30.00,0:00:32.00,Default,,0,0,0,,e depois de um tempo, quando eu tiver ganhado dinheiro,
+Dialogue: 0,0:00:32.00,0:00:34.00,Default,,0,0,0,,é o máximo, tipo assim, contratar alguém.
+Dialogue: 0,0:00:34.00,0:00:36.00,Default,,0,0,0,,Eu não quero, tipo assim, ficar louca.
+Dialogue: 0,0:00:36.00,0:00:38.00,Default,,0,0,0,,Porque, por exemplo, o que que eu tava fazendo?
+Dialogue: 0,0:00:38.00,0:00:40.00,Default,,0,0,0,,Eu tava com cliente muito barato,
+Dialogue: 0,0:00:40.00,0:00:42.00,Default,,0,0,0,,tipo aqui, cliente muito barato, é o cara mais chado
+Dialogue: 0,0:00:42.00,0:00:44.00,Default,,0,0,0,,porque eles acham que um trabalho de 300 reais,
+Dialogue: 0,0:00:44.00,0:00:45.00,Default,,0,0,0,,tipo, 300, 400 reais,
+Dialogue: 0,0:00:45.00,0:00:47.00,Default,,0,0,0,,Eu tô fazendo um projeto
+Dialogue: 0,0:00:47.00,0:00:49.00,Default,,0,0,0,,que eu tô fazendo, tipo assim,
+Dialogue: 0,0:00:49.00,0:00:51.00,Default,,0,0,0,,é um social media
+Dialogue: 0,0:00:51.00,0:00:53.00,Default,,0,0,0,,que ele é 100% curiar, né?
+Dialogue: 0,0:00:53.00,0:00:55.00,Default,,0,0,0,,Tipo assim, você coloca
+Dialogue: 0,0:00:55.00,0:00:57.00,Default,,0,0,0,,os dados da sua empresa e ele vai
+Dialogue: 0,0:00:57.00,0:00:59.00,Default,,0,0,0,,criar, tipo assim, posts e vídeos
+Dialogue: 0,0:00:59.00,0:01:01.00,Default,,0,0,0,,por próximos 30 dias.
+Dialogue: 0,0:01:01.00,0:01:03.00,Default,,0,0,0,,Tipo assim, esse é meu projeto agora.
+Dialogue: 0,0:01:03.00,0:01:05.00,Default,,0,0,0,,É, tipo assim, um negócio que eu tô querendo fazer
+Dialogue: 0,0:01:05.00,0:01:07.00,Default,,0,0,0,,que tá dando um trabalho do caralho porque, tipo assim,
+Dialogue: 0,0:01:07.00,0:01:09.00,Default,,0,0,0,,você não sabe como é chato
+Dialogue: 0,0:01:09.00,0:01:11.00,Default,,0,0,0,,fazer um negócio automático que não parece tanto
+Dialogue: 0,0:01:11.00,0:01:13.00,Default,,0,0,0,,com o cara de Jack, que fica bonito.
+Dialogue: 0,0:01:13.00,0:01:15.00,Default,,0,0,0,,E ainda eu tô querendo criar um negócio
+Dialogue: 0,0:01:15.00,0:01:17.00,Default,,0,0,0,,que seja, por exemplo,
+Dialogue: 0,0:01:17.00,0:01:19.00,Default,,0,0,0,,que tenha, tipo assim, os vídeos mais virais,
+Dialogue: 0,0:01:19.00,0:01:20.00,Default,,0,0,0,,só que pra que ele iniche?

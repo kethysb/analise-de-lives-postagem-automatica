@@ -1,0 +1,37 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,58,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,3,0,2,80,80,360,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.00,Default,,0,0,0,,Tecnico de segurança. Nossa! Aí você tirou a...
+Dialogue: 0,0:00:06.00,0:00:09.00,Default,,0,0,0,,Bem diferente, calma aí, vamos lá.
+Dialogue: 0,0:00:09.00,0:00:14.00,Default,,0,0,0,,Tecnico de... Eu não vou colocar assento, porque eu não sei como está funcionando, né?
+Dialogue: 0,0:00:14.00,0:00:20.00,Default,,0,0,0,,Que a API tem um problema, que ela não fala... Não tende...
+Dialogue: 0,0:00:20.00,0:00:24.00,Default,,0,0,0,,Assento, normalmente. Vamos ver o que aparece aqui.
+Dialogue: 0,0:00:24.00,0:00:27.00,Default,,0,0,0,,Vocês conseguem ver minha tela de bola, gente?
+Dialogue: 0,0:00:27.00,0:00:33.00,Default,,0,0,0,,Eu sei que ela é pequena, é só que, tipo assim, se eu quiser deixar desse formato para a celular, que vocês veem para o celular,
+Dialogue: 0,0:00:33.00,0:00:36.00,Default,,0,0,0,,é único jeito, cara, se não vai ficar muito ruim.
+Dialogue: 0,0:00:36.00,0:00:38.00,Default,,0,0,0,,Vamos ver, então.
+Dialogue: 0,0:00:38.00,0:00:41.00,Default,,0,0,0,,Discord, deixa eu ver.
+Dialogue: 0,0:00:41.00,0:00:43.00,Default,,0,0,0,,Alguém entrou aqui, gente?
+Dialogue: 0,0:00:43.00,0:00:45.00,Default,,0,0,0,,Viu um barulho? Não sei se é outra coisa.
+Dialogue: 0,0:00:45.00,0:00:49.00,Default,,0,0,0,,Mas eu quero testar ele para uma automação que estou fazendo para empresas.
+Dialogue: 0,0:00:49.00,0:00:51.00,Default,,0,0,0,,Para entender mais sobre o dado da empresa.
+Dialogue: 0,0:00:51.00,0:00:54.00,Default,,0,0,0,,Vamos supor que eu estou atendendo uma empresa de cerraria.
+Dialogue: 0,0:00:54.00,0:00:57.00,Default,,0,0,0,,E eu quero entender como está esse mercado na China.
+Dialogue: 0,0:00:57.00,0:00:58.00,Default,,0,0,0,,Entendeu?
+Dialogue: 0,0:00:58.00,0:01:00.00,Default,,0,0,0,,Porque é o concorrente dele da China.
+Dialogue: 0,0:01:00.00,0:01:03.00,Default,,0,0,0,,Aí eu quero ver se essa API vai conseguir ter essa função.
+Dialogue: 0,0:01:03.00,0:01:05.00,Default,,0,0,0,,Termina dois dias.
+Dialogue: 0,0:01:05.00,0:01:06.00,Default,,0,0,0,,Do quê?
+Dialogue: 0,0:01:06.00,0:01:09.00,Default,,0,0,0,,Calma aí, calma aí, calma aí.
+Dialogue: 0,0:01:13.00,0:01:14.00,Default,,0,0,0,,Ah, tá.
+Dialogue: 0,0:01:22.00,0:01:24.00,Default,,0,0,0,,Voltei, voltei, voltei.
+Dialogue: 0,0:01:24.00,0:01:25.00,Default,,0,0,0,,Que menina doidinha do vídeo do Fable.

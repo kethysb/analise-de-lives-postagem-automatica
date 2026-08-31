@@ -1,0 +1,38 @@
+[Script Info]
+Title: Minimalist Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: SubtitleMinimal,Arial,68,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,320,1
+Style: TitleMinimal,Arial,52,&H0000FFFF,&H00FFFFFF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,4,2,8,60,60,1650,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:50.00,TitleMinimal,,0,0,0,,ESSA API E REALMENTE SUA?
+Dialogue: 0,0:00:00.00,0:00:00.30,SubtitleMinimal,,0,0,0,,E aí, tipo assim, fica vendendo o acesso
+Dialogue: 0,0:00:00.30,0:00:04.30,SubtitleMinimal,,0,0,0,,Por isso que eles estavam falando que talvez essas informações
+Dialogue: 0,0:00:04.30,0:00:06.30,SubtitleMinimal,,0,0,0,,Elas conseguem ser invadidas
+Dialogue: 0,0:00:06.30,0:00:11.30,SubtitleMinimal,,0,0,0,,Por quê? Porque literalmente você está comprando um negócio que é por...
+Dialogue: 0,0:00:11.30,0:00:13.30,SubtitleMinimal,,0,0,0,,Que é de outra pessoa, não vai ser ser o mesmo
+Dialogue: 0,0:00:13.30,0:00:15.30,SubtitleMinimal,,0,0,0,,Não vai ser uma API que é realmente sua
+Dialogue: 0,0:00:15.30,0:00:16.30,SubtitleMinimal,,0,0,0,,É uma API que era de outra pessoa
+Dialogue: 0,0:00:16.30,0:00:18.30,SubtitleMinimal,,0,0,0,,Fala fornece para você mais barato
+Dialogue: 0,0:00:18.30,0:00:19.30,SubtitleMinimal,,0,0,0,,Porque ela conseguiu de grácia
+Dialogue: 0,0:00:19.30,0:00:21.30,SubtitleMinimal,,0,0,0,,Então se ela pode ver essas informações, pego a provavelmente sim
+Dialogue: 0,0:00:21.30,0:00:23.30,SubtitleMinimal,,0,0,0,,Tipo assim, olha, é...
+Dialogue: 0,0:00:23.30,0:00:27.30,SubtitleMinimal,,0,0,0,,Se você for fazer alguma coisa nesta empresa, cuidado, véi
+Dialogue: 0,0:00:27.30,0:00:29.30,SubtitleMinimal,,0,0,0,,Não vai, tipo assim, se você for fazer sem algo, o projeto...
+Dialogue: 0,0:00:29.30,0:00:32.30,SubtitleMinimal,,0,0,0,,O projeto, tipo assim, o projeto selvo da sua agência
+Dialogue: 0,0:00:32.30,0:00:35.30,SubtitleMinimal,,0,0,0,,De alguma coisa que você trabalha tudo certo, véi
+Dialogue: 0,0:00:35.30,0:00:38.30,SubtitleMinimal,,0,0,0,,Mas se não vai fazer coisa muito...
+Dialogue: 0,0:00:38.30,0:00:40.30,SubtitleMinimal,,0,0,0,,Tipo, se ela tem uma empresa que vale bilhões
+Dialogue: 0,0:00:40.30,0:00:43.30,SubtitleMinimal,,0,0,0,,Não se não vai ter uma expressão de trabalho e vale bilhões
+Dialogue: 0,0:00:43.30,0:00:46.30,SubtitleMinimal,,0,0,0,,Mas, tipo, só a empresa, tipo assim, tem um patrimônio bom, alebou
+Dialogue: 0,0:00:46.30,0:00:47.30,SubtitleMinimal,,0,0,0,,Tipo assim, ela já conhecida
+Dialogue: 0,0:00:47.30,0:00:50.00,SubtitleMinimal,,0,0,0,,Não vai colocar no open identity pelo amor de Deus

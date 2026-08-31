@@ -1,0 +1,19 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,54,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,0,2,80,80,320,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,Alguém perguntou: aplicativo para melhorar fotos\Npara o público feminino é uma boa ideia?
+Dialogue: 0,0:00:05.00,0:00:11.00,Default,,0,0,0,,A primeira coisa que você tem que fazer
+Dialogue: 0,0:00:11.00,0:00:16.00,Default,,0,0,0,,é estudar o mercado.
+Dialogue: 0,0:00:16.00,0:00:22.00,Default,,0,0,0,,Já existe uma solução parecida?
+Dialogue: 0,0:00:22.00,0:00:27.00,Default,,0,0,0,,Quanto ela custa? Quem usa?
+Dialogue: 0,0:00:27.00,0:00:32.00,Default,,0,0,0,,O que os usuários reclamam?
+Dialogue: 0,0:00:32.00,0:00:36.00,Default,,0,0,0,,Com quem você vai competir?

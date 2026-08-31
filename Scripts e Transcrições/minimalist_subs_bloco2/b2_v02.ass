@@ -1,0 +1,23 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,54,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,0,2,80,80,320,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,Eu estou trabalhando igual uma maluca...
+Dialogue: 0,0:00:05.00,0:00:10.00,Default,,0,0,0,,mas tenho fé que, quando acabar essa automatização,
+Dialogue: 0,0:00:10.00,0:00:15.00,Default,,0,0,0,,vou conseguir trabalhar um pouco menos.
+Dialogue: 0,0:00:15.00,0:00:20.00,Default,,0,0,0,,Mas provavelmente vou criar outro projeto.
+Dialogue: 0,0:00:20.00,0:00:25.00,Default,,0,0,0,,Porque eu acordo querendo ver novidades,
+Dialogue: 0,0:00:25.00,0:00:30.00,Default,,0,0,0,,querendo programar, querendo pesquisar.
+Dialogue: 0,0:00:30.00,0:00:35.00,Default,,0,0,0,,Eu acho que eu gosto mesmo de trabalhar.
+Dialogue: 0,0:00:35.00,0:00:42.00,Default,,0,0,0,,O que eu não gosto é ser cobrada\Npor uma coisa que eu sei que estou fazendo.
+Dialogue: 0,0:00:42.00,0:00:48.00,Default,,0,0,0,,Outra pessoa controlando minha rotina
+Dialogue: 0,0:00:48.00,0:00:55.00,Default,,0,0,0,,por um trabalho que eu já sei que vai sair.
+Dialogue: 0,0:00:55.00,0:01:02.00,Default,,0,0,0,,Isso me desgasta. Não é o trabalho em si.

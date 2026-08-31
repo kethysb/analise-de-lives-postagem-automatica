@@ -1,0 +1,50 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,58,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,3,0,2,80,80,360,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.00,Default,,0,0,0,,Já é formar em psicologia? Não, eu tô no segundo ano,
+Dialogue: 0,0:00:03.00,0:00:04.00,Default,,0,0,0,,ou o terceiro ano que vem.
+Dialogue: 0,0:00:04.00,0:00:07.00,Default,,0,0,0,,Só que eu estudo psicologia, tipo assim, desde quando eu era criança.
+Dialogue: 0,0:00:07.00,0:00:10.00,Default,,0,0,0,,Tipo assim, desde quando eu tava no ensino médio,
+Dialogue: 0,0:00:10.00,0:00:13.00,Default,,0,0,0,,aí eu lia os livros de psicologia porque eu sempre tinha o celular.
+Dialogue: 0,0:00:13.00,0:00:16.00,Default,,0,0,0,,Eu lia os livros de psicologia porque eu sempre amei.
+Dialogue: 0,0:00:16.00,0:00:18.00,Default,,0,0,0,,Aí eu tô fazendo estudar sozinho.
+Dialogue: 0,0:00:18.00,0:00:20.00,Default,,0,0,0,,Não sei se vocês conhecem o Wesley Vila Nogari.
+Dialogue: 0,0:00:20.00,0:00:23.00,Default,,0,0,0,,Eu gosto muito de psicologia baseada em evidência.
+Dialogue: 0,0:00:23.00,0:00:25.00,Default,,0,0,0,,Tipo assim, pra mim, é a minha área preferida de estudo.
+Dialogue: 0,0:00:25.00,0:00:27.00,Default,,0,0,0,,É tipo, muito, muito, muito bom.
+Dialogue: 0,0:00:28.00,0:00:30.00,Default,,0,0,0,,E aí está em primeiro para o auxílio de estudos.
+Dialogue: 0,0:00:30.00,0:00:32.00,Default,,0,0,0,,Então, eu concordo muito com isso.
+Dialogue: 0,0:00:32.00,0:00:34.00,Default,,0,0,0,,Eu gosto muito de estudar assim.
+Dialogue: 0,0:00:34.00,0:00:37.00,Default,,0,0,0,,Eu estudo, por exemplo, o conteúdo que eu quero.
+Dialogue: 0,0:00:37.00,0:00:40.00,Default,,0,0,0,,Aí eu monto, por exemplo, questões, tipo assim,
+Dialogue: 0,0:00:40.00,0:00:43.00,Default,,0,0,0,,que podem cair de acordo com, por exemplo, o que o professor manda.
+Dialogue: 0,0:00:43.00,0:00:45.00,Default,,0,0,0,,E tipo assim, cara, depois que eu comecei a estudar assim,
+Dialogue: 0,0:00:45.00,0:00:47.00,Default,,0,0,0,,Que eu estou amando trabalhar, tipo assim,
+Dialogue: 0,0:00:47.00,0:00:49.00,Default,,0,0,0,,é muito legal você trabalhar com essa parte de comportamento.
+Dialogue: 0,0:00:49.00,0:00:51.00,Default,,0,0,0,,E ainda junto, tipo assim, a parte que eu gosto
+Dialogue: 0,0:00:51.00,0:00:53.00,Default,,0,0,0,,de tecnologia com uma parte comportamental.
+Dialogue: 0,0:00:53.00,0:00:55.00,Default,,0,0,0,,E também pela era da IA,
+Dialogue: 0,0:00:55.00,0:00:57.00,Default,,0,0,0,,eu consigo fazer uma coisa que eu consigo, tipo assim,
+Dialogue: 0,0:00:57.00,0:00:59.00,Default,,0,0,0,,aplicar meus conceitos de psicologia já do site,
+Dialogue: 0,0:00:59.00,0:01:01.00,Default,,0,0,0,,tipo assim, já na contratação.
+Dialogue: 0,0:01:01.00,0:01:03.00,Default,,0,0,0,,Então, por exemplo, eu estou conseguindo, tipo assim,
+Dialogue: 0,0:01:03.00,0:01:05.00,Default,,0,0,0,,vamos supor na experiência
+Dialogue: 0,0:01:05.00,0:01:07.00,Default,,0,0,0,,do usuário. Eu consigo, tipo assim,
+Dialogue: 0,0:01:07.00,0:01:09.00,Default,,0,0,0,,muita coisa pedir para a IA, mas
+Dialogue: 0,0:01:09.00,0:01:10.00,Default,,0,0,0,,por exemplo, a parte do site
+Dialogue: 0,0:01:10.00,0:01:12.00,Default,,0,0,0,,Eu tipo assim, eu sou muito nova nisso, sabe?
+Dialogue: 0,0:01:12.00,0:01:17.00,Default,,0,0,0,,Eu não comprei que eu ia trabalhar com essa área de tecnologia e automação.
+Dialogue: 0,0:01:17.00,0:01:19.00,Default,,0,0,0,,Nossa, mas ele é incrível, sabe?
+Dialogue: 0,0:01:19.00,0:01:21.00,Default,,0,0,0,,Eu acho que eu nasci na era certa das IAS,
+Dialogue: 0,0:01:21.00,0:01:25.00,Default,,0,0,0,,porque eu consigo tipo assim aplicar coisas que eu gosto mais,
+Dialogue: 0,0:01:25.00,0:01:29.00,Default,,0,0,0,,tipo eu gosto muito dessa parte de, tipo assim, empresa e psicologia,
+Dialogue: 0,0:01:29.00,0:01:30.00,Default,,0,0,0,,eu consigo aplicar tipo um direto na programação, é muito legal.

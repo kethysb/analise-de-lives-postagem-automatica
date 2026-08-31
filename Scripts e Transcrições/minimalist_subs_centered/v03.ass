@@ -1,0 +1,23 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,420,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.79,Default,,0,0,0,,ela vai tentar buscar mais rápido da\Npossível para não gastar tanto token, entendeu?
+Dialogue: 0,0:00:00.79,0:00:04.79,Default,,0,0,0,,Agora, se você, tipo assim,\Nsempre alimentar IA, falar assim,
+Dialogue: 0,0:00:04.79,0:00:08.79,Default,,0,0,0,,olha, eu quero que você\Npegue essa rota para você seguir,
+Dialogue: 0,0:00:08.79,0:00:12.79,Default,,0,0,0,,se você não conseguir pegar essa rota,\Nvocê pega essa, você tem que guiar ela.
+Dialogue: 0,0:00:12.79,0:00:16.79,Default,,0,0,0,,Porque se você não fazer essa\Nrota, se você não guiar ela,
+Dialogue: 0,0:00:16.79,0:00:22.79,Default,,0,0,0,,nada, se você não guiar ela para o\Ncaminho certo, ela só vai responder as respostas genéricas.
+Dialogue: 0,0:00:22.79,0:00:25.79,Default,,0,0,0,,É que nem você,\Ntipo assim, ensinar uma pessoa,
+Dialogue: 0,0:00:25.79,0:00:28.79,Default,,0,0,0,,eu não sei se vocês já\Ntiveram esse papel de ensinar alguém.
+Dialogue: 0,0:00:28.79,0:00:31.79,Default,,0,0,0,,Se você ensinar uma pessoa, tipo\Nassim, que um mais um é dois,
+Dialogue: 0,0:00:31.79,0:00:36.79,Default,,0,0,0,,tipo assim, a pessoa só vai saber isso, mas se\Nvocê começar a ensinar ela a pensar fora da caixa,
+Dialogue: 0,0:00:36.79,0:00:40.00,Default,,0,0,0,,a realmente seguir os caminhos complexos,\Nessa pessoa vai ser totalmente diferente.

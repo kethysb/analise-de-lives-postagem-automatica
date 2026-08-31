@@ -1,0 +1,40 @@
+[Script Info]
+Title: Wendell Preset Captions
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,2,10,10,120,1
+Style: Highlight,Arial,20,&H0000FFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,3,2,10,10,120,1
+Style: TitleHeader,Arial,22,&H0000E6FF,&H0000E6FF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,3,3,8,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:01:35.00,TitleHeader,,0,0,0,,{\b1\c&H0000FFFF&}POR QUE O CHATGPT ESTA BANINDO CONTAS PELO MUNDO{\b0}
+Dialogue: 0,0:00:00.30,0:00:04.30,Default,,0,0,0,,Ó, comei, o é me internete, né?
+Dialogue: 0,0:00:09.30,0:00:12.30,Default,,0,0,0,,Comei, deixa eu mostrar pra você
+Dialogue: 0,0:00:14.30,0:00:16.30,Default,,0,0,0,,Aqui
+Dialogue: 0,0:00:16.30,0:00:19.30,Default,,0,0,0,,Tá vendo? É esse site aqui
+Dialogue: 0,0:00:19.30,0:00:22.30,Default,,0,0,0,,Aí, que que é? Ó, vou colocar aqui pra vocês, ver em
+Dialogue: 0,0:00:25.30,0:00:27.30,Default,,0,0,0,,Comei
+Dialogue: 0,0:00:31.30,0:00:35.30,Default,,0,0,0,,O minutinho, deixa eu colocar só sem, né? Aqui é um só ponto
+Dialogue: 0,0:00:35.30,0:00:37.30,Default,,0,0,0,,Comei
+Dialogue: 0,0:00:41.30,0:00:43.30,Default,,0,0,0,,Tem 70 dólares aqui
+Dialogue: 0,0:00:44.30,0:00:49.30,Default,,0,0,0,,Mano, eu tô achando que não dá pra colocar aí live, não, mais calma
+Dialogue: 0,0:00:49.30,0:00:51.30,Default,,0,0,0,,Da pra colocar não possível
+Dialogue: 0,0:00:51.30,0:00:53.30,Default,,0,0,0,,Tá, dá assim
+Dialogue: 0,0:00:56.30,0:00:58.30,Default,,0,0,0,,Ó, foi
+Dialogue: 0,0:00:58.30,0:01:00.30,Default,,0,0,0,,Ó, esse site aqui, ó
+Dialogue: 0,0:01:00.30,0:01:02.30,Default,,0,0,0,,Deixa eu compartilhar até lá pra vocês ver
+Dialogue: 0,0:01:07.30,0:01:09.30,Default,,0,0,0,,Aqui, deixa eu...
+Dialogue: 0,0:01:10.30,0:01:12.30,Default,,0,0,0,,Não, com a maio, vou mostrar pra você
+Dialogue: 0,0:01:12.30,0:01:16.30,Default,,0,0,0,,Tem dois, né? Eu tava conversando com cara, que ele falou pra mim mandar pra ele, né?
+Dialogue: 0,0:01:16.30,0:01:19.30,Default,,0,0,0,,Aí ele mandou um, que também ele é muito bom
+Dialogue: 0,0:01:19.30,0:01:23.30,Default,,0,0,0,,Que tipo assim, eu ainda não testei, então eu não vou saber se é golpe
+Dialogue: 0,0:01:23.30,0:01:25.30,Default,,0,0,0,,Eu ainda vou testar que ele também é bem barato
+Dialogue: 0,0:01:25.30,0:01:28.30,Default,,0,0,0,,Mas é isso daqui, eu sei o que funciona, deixa eu compartilhar aqui
+Dialogue: 0,0:01:28.30,0:01:30.30,Default,,0,0,0,,Veja vocês, ver em
+Dialogue: 0,0:01:30.30,0:01:33.30,Default,,0,0,0,,Isso não é origem aqui

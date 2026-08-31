@@ -1,0 +1,48 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,58,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,3,0,2,80,80,360,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.00,Default,,0,0,0,,Como você gerar renda, cara?
+Dialogue: 0,0:00:01.00,0:00:03.00,Default,,0,0,0,,Eu tenho uns clientes fixos, tipo assim,
+Dialogue: 0,0:00:03.00,0:00:05.00,Default,,0,0,0,,não falo que eu viro muito dinheiro, gente.
+Dialogue: 0,0:00:05.00,0:00:07.00,Default,,0,0,0,,Tô bem longe disso. Tengo 20 aninhos.
+Dialogue: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,Comecei faz um ano, antes, nunca trabalhei.
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,Comecei a trabalhar agora.
+Dialogue: 0,0:00:11.00,0:00:13.00,Default,,0,0,0,,Você tem uma ideia, gente? Eu comecei assim.
+Dialogue: 0,0:00:13.00,0:00:15.00,Default,,0,0,0,,Eu comecei a vender perfume, tipo assim,
+Dialogue: 0,0:00:15.00,0:00:17.00,Default,,0,0,0,,freelancing, comecei a fazer uns freelancing,
+Dialogue: 0,0:00:17.00,0:00:19.00,Default,,0,0,0,,tipo de, tipo assim, 70 reais.
+Dialogue: 0,0:00:19.00,0:00:21.00,Default,,0,0,0,,Eu ganhava isso no dia.
+Dialogue: 0,0:00:21.00,0:00:23.00,Default,,0,0,0,,Aí, tipo assim, eu falei com o cara
+Dialogue: 0,0:00:23.00,0:00:25.00,Default,,0,0,0,,que eu trabalhava, apresentei
+Dialogue: 0,0:00:25.00,0:00:27.00,Default,,0,0,0,,minha ideia para ele de projeto,
+Dialogue: 0,0:00:27.00,0:00:29.00,Default,,0,0,0,,e falei assim, olha, que que você acha
+Dialogue: 0,0:00:29.00,0:00:31.00,Default,,0,0,0,,da gente implementar isso na sua loja?
+Dialogue: 0,0:00:31.00,0:00:33.00,Default,,0,0,0,,Aí eu fiz uma reunião com ele, fui estudar
+Dialogue: 0,0:00:33.00,0:00:35.00,Default,,0,0,0,,o negócio dele antes, e aí, tipo assim,
+Dialogue: 0,0:00:35.00,0:00:37.00,Default,,0,0,0,,todos meus clientes foi nisso, entendeu?
+Dialogue: 0,0:00:37.00,0:00:39.00,Default,,0,0,0,,Tipo assim, eu comecei do zero.
+Dialogue: 0,0:00:39.00,0:00:41.00,Default,,0,0,0,,Aí, tipo assim, tinha umas pessoas que eu conheci,
+Dialogue: 0,0:00:41.00,0:00:43.00,Default,,0,0,0,,eles foram conhecendo, que eu sou
+Dialogue: 0,0:00:43.00,0:00:45.00,Default,,0,0,0,,dedicada, que eu sou inteligente,
+Dialogue: 0,0:00:45.00,0:00:47.00,Default,,0,0,0,,e aí, tipo assim, eu fui conseguindo
+Dialogue: 0,0:00:47.00,0:00:49.00,Default,,0,0,0,,cliente e por gostarem de mim,
+Dialogue: 0,0:00:49.00,0:00:51.00,Default,,0,0,0,,por confiar.
+Dialogue: 0,0:00:51.00,0:00:53.00,Default,,0,0,0,,Então, eu comecei muito por confiança,
+Dialogue: 0,0:00:53.00,0:00:55.00,Default,,0,0,0,,entendeu? Eu comecei assim.
+Dialogue: 0,0:00:55.00,0:00:57.00,Default,,0,0,0,,Agora, minha meta é, tipo assim,
+Dialogue: 0,0:00:57.00,0:00:59.00,Default,,0,0,0,,fazer por tráfico pago, entendeu?
+Dialogue: 0,0:00:59.00,0:01:01.00,Default,,0,0,0,,E aí, eu tô vendo isso, porque...
+Dialogue: 0,0:01:01.00,0:01:05.00,Default,,0,0,0,,Hoje em dia nem tráfego pago. Meu resultado dos tráfego pago está muito bom, viu?
+Dialogue: 0,0:01:05.00,0:01:10.00,Default,,0,0,0,,Eu também quero fazer a automação de tráfego pago, que também vai ser junto com o negócio que eu quero fazer da minha agência.
+Dialogue: 0,0:01:10.00,0:01:14.00,Default,,0,0,0,,E tipo assim, eu estou fazendo os tráfego pago com preço suxuzinho.
+Dialogue: 0,0:01:14.00,0:01:20.00,Default,,0,0,0,,Eu vendi uma máquina para o meu pai, a máquina do meu pai custa 30 a 50 mil.
+Dialogue: 0,0:01:20.00,0:01:24.00,Default,,0,0,0,,Eu consegui vender ela gastando só 100 reais, só com tráfego pago com a tomação de ar.

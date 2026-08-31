@@ -1,0 +1,22 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,58,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,3,0,2,80,80,360,1
+Style: Highlight,Arial,62,&H0000FFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,4,0,2,80,80,360,1
+Style: TitleCard,Arial,34,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,2,0,2,80,80,1440,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.00,Default,,0,0,0,,Eu comecei vendendo perfume como freelancer.
+Dialogue: 0,0:00:04.00,0:00:08.00,Default,,0,0,0,,Eu ganhava R$70 por dia no inicio.
+Dialogue: 0,0:00:08.00,0:00:14.00,Default,,0,0,0,,Tenho 20 anos e comecei a trabalhar faz 1 ano.
+Dialogue: 0,0:00:14.00,0:00:22.00,Default,,0,0,0,,Falei com o dono do negocio e apresentei um projeto.
+Dialogue: 0,0:00:22.00,0:00:30.00,Default,,0,0,0,,Fui estudar o negocio dele antes da reuniao.
+Dialogue: 0,0:00:30.00,0:00:42.00,Default,,0,0,0,,As pessoas foram conhecendo meu trabalho e confiadno.
+Dialogue: 0,0:00:42.00,0:00:52.00,Default,,0,0,0,,Foi assim que fui conseguindo meus primeiros clientes.
+Dialogue: 0,0:00:52.00,0:01:01.00,Default,,0,0,0,,Agora minha meta e fazer isso por trafego pago!

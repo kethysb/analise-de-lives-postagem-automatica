@@ -1,0 +1,41 @@
+[Script Info]
+Title: Minimalist Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: SubtitleMinimal,Arial,68,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,320,1
+Style: TitleMinimal,Arial,52,&H0000FFFF,&H00FFFFFF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,4,2,8,60,60,1650,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:01:10.00,TitleMinimal,,0,0,0,,A IA ME ENSINOU A APRENDER
+Dialogue: 0,0:00:00.04,0:00:02.44,SubtitleMinimal,,0,0,0,,igual eu estou procurando a dia, mano, eu amo e a cara
+Dialogue: 0,0:00:02.76,0:00:06.12,SubtitleMinimal,,0,0,0,,virou meu vicio, eu tipo assim, mano, você precisa entendendo que eu comecei estudando
+Dialogue: 0,0:00:06.48,0:00:08.56,SubtitleMinimal,,0,0,0,,vou explicar pra vocês, eu comecei a fazer live
+Dialogue: 0,0:00:08.60,0:00:11.00,SubtitleMinimal,,0,0,0,,aqui, tipo assim, eu não saive muito de volta, cara
+Dialogue: 0,0:00:11.00,0:00:13.00,SubtitleMinimal,,0,0,0,,tipo assim, eu queria fazer live de curso o ano
+Dialogue: 0,0:00:13.00,0:00:16.00,SubtitleMinimal,,0,0,0,,tipo assim, eu queria fazer live de Minecraft, jogando o ano
+Dialogue: 0,0:00:16.00,0:00:17.44,SubtitleMinimal,,0,0,0,,fazendo PVP
+Dialogue: 0,0:00:18.00,0:00:20.00,SubtitleMinimal,,0,0,0,,ai, eu comecei aí
+Dialogue: 0,0:00:20.00,0:00:22.84,SubtitleMinimal,,0,0,0,,ai, isso é da psicologia, tipo assim, eu pensei que eu havia a fazer psicologia
+Dialogue: 0,0:00:22.84,0:00:23.64,SubtitleMinimal,,0,0,0,,e é isso
+Dialogue: 0,0:00:24.48,0:00:26.00,SubtitleMinimal,,0,0,0,,depois que eu descobriar
+Dialogue: 0,0:00:26.40,0:00:31.28,SubtitleMinimal,,0,0,0,,eu fui entre no mundo, tipo assim, eu fui aprendo sozinho, fui aprendendo inglês sozinho, fui aprendo programação sozinha
+Dialogue: 0,0:00:31.68,0:00:34.56,SubtitleMinimal,,0,0,0,,eu nem sei porque eu estou fazendo mais faculdade de psicologia, cara
+Dialogue: 0,0:00:34.56,0:00:36.56,SubtitleMinimal,,0,0,0,,porque eu comecei a trabalhar com programação
+Dialogue: 0,0:00:36.92,0:00:39.72,SubtitleMinimal,,0,0,0,,tipo assim, eu estou colocando clientes, tipo assim, mudou minha vida
+Dialogue: 0,0:00:39.72,0:00:41.48,SubtitleMinimal,,0,0,0,,parece que eu virei outra pessoa
+Dialogue: 0,0:00:41.68,0:00:45.60,SubtitleMinimal,,0,0,0,,eu nem, eu nunca fui tipo assim, de aprender as coisas sozinho, sabe
+Dialogue: 0,0:00:45.92,0:00:49.28,SubtitleMinimal,,0,0,0,,por ti, tipo assim, eu sempre aprendi de um jeito diferente
+Dialogue: 0,0:00:49.84,0:00:53.68,SubtitleMinimal,,0,0,0,,e aí, quando eu lançou, ai eu aprendi a aprender do jeito certo
+Dialogue: 0,0:00:53.68,0:00:57.48,SubtitleMinimal,,0,0,0,,eu comecei a estudar também baseado em evidências, coisas, tipo tudo por artigos científicos
+Dialogue: 0,0:00:58.20,0:01:04.00,SubtitleMinimal,,0,0,0,,e aprendi a pesquisar as coisas da maneira certa, tipo assim, não indo pra zonda, certo, tipo assim, que todo mundo vai
+Dialogue: 0,0:01:04.16,0:01:06.96,SubtitleMinimal,,0,0,0,,aprender a usar, tipo assim, coisas escondidas
+Dialogue: 0,0:01:07.28,0:01:09.20,SubtitleMinimal,,0,0,0,,minha cabeça mudou de um jeito, cara
+Dialogue: 0,0:01:09.20,0:01:10.00,SubtitleMinimal,,0,0,0,,tipo assim, eu aprendi isso da melhor

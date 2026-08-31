@@ -1,0 +1,37 @@
+[Script Info]
+Title: Minimalist Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: SubtitleMinimal,Arial,68,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,320,1
+Style: TitleMinimal,Arial,52,&H0000FFFF,&H00FFFFFF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,4,2,8,60,60,1650,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:50.00,TitleMinimal,,0,0,0,,SUA EMPRESA PODE TER ACESSO A ISSO
+Dialogue: 0,0:00:00.00,0:00:00.30,SubtitleMinimal,,0,0,0,,Tem esse negócio do AWS que eu falei
+Dialogue: 0,0:00:00.30,0:00:02.30,SubtitleMinimal,,0,0,0,,Gente, vou mostrar uma plataforma pra vocês
+Dialogue: 0,0:00:04.30,0:00:07.30,SubtitleMinimal,,0,0,0,,Que ela, eu não sei se eu ainda estou pagando ela, porque ela é um pouquinho cara
+Dialogue: 0,0:00:07.30,0:00:09.30,SubtitleMinimal,,0,0,0,,Ela é gringa que eu descobri uma comunidade
+Dialogue: 0,0:00:10.30,0:00:11.30,SubtitleMinimal,,0,0,0,,Tá, eu ainda estou com ela
+Dialogue: 0,0:00:11.30,0:00:13.30,SubtitleMinimal,,0,0,0,,É, só quando eu fui aprovada, eu não sei
+Dialogue: 0,0:00:13.30,0:00:15.30,SubtitleMinimal,,0,0,0,,Mas olha, mas isso é ouro, tá?
+Dialogue: 0,0:00:15.30,0:00:17.30,SubtitleMinimal,,0,0,0,,Isso aqui, se estão por vendo, é ouro, é ouro
+Dialogue: 0,0:00:19.30,0:00:21.30,SubtitleMinimal,,0,0,0,,É tipo assim, uma plataforma que é isso que eles fazem, tá?
+Dialogue: 0,0:00:21.30,0:00:22.30,SubtitleMinimal,,0,0,0,,Só pra vocês ter uma ideia
+Dialogue: 0,0:00:22.30,0:00:25.30,SubtitleMinimal,,0,0,0,,Tipo assim, seis meses de frino, busines plus
+Dialogue: 0,0:00:25.30,0:00:27.30,SubtitleMinimal,,0,0,0,,É com, e é alimentada
+Dialogue: 0,0:00:27.30,0:00:29.30,SubtitleMinimal,,0,0,0,,Então, tipo assim, eu gosto porque você tem uma empresa a foto
+Dialogue: 0,0:00:29.30,0:00:31.30,SubtitleMinimal,,0,0,0,,Aí você consegue seis meses grátis
+Dialogue: 0,0:00:31.30,0:00:36.30,SubtitleMinimal,,0,0,0,,Que que os suços e outras empresas, tipo assim, outros países fazem, né?
+Dialogue: 0,0:00:36.30,0:00:37.30,SubtitleMinimal,,0,0,0,,Mas é mais russa e china
+Dialogue: 0,0:00:37.30,0:00:40.30,SubtitleMinimal,,0,0,0,,Eles criam, tipo assim, várias empresas falsas
+Dialogue: 0,0:00:40.30,0:00:45.30,SubtitleMinimal,,0,0,0,,Exentram, tipo assim, nessas promoções aqui
+Dialogue: 0,0:00:45.30,0:00:49.30,SubtitleMinimal,,0,0,0,,Eles sabem como conseguir, tipo assim, eles sabem o que que tem que escrever
+Dialogue: 0,0:00:49.30,0:00:50.00,SubtitleMinimal,,0,0,0,,Idealmente, entendeu, pra entrar

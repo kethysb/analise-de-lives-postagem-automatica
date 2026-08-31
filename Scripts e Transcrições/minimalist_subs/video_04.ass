@@ -1,0 +1,40 @@
+[Script Info]
+Title: Minimalist Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: SubtitleMinimal,Arial,68,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,320,1
+Style: TitleMinimal,Arial,52,&H0000FFFF,&H00FFFFFF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,4,2,8,60,60,1650,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:55.00,TitleMinimal,,0,0,0,,DE ONDE VEM O PRECO TAO BAIXO?
+Dialogue: 0,0:00:00.00,0:00:00.30,SubtitleMinimal,,0,0,0,,Que ó, se eu usar só a peita, ver não?
+Dialogue: 0,0:00:00.30,0:00:03.30,SubtitleMinimal,,0,0,0,,Eu vou explicar pra vocês como funciona essa peita
+Dialogue: 0,0:00:03.30,0:00:06.30,SubtitleMinimal,,0,0,0,,Uma pessoa que entende um pouco do negócio
+Dialogue: 0,0:00:06.30,0:00:08.30,SubtitleMinimal,,0,0,0,,Tem um negócio, que é Amazon
+Dialogue: 0,0:00:08.30,0:00:11.30,SubtitleMinimal,,0,0,0,,Amazon, ela dá um plano pra quem estudante
+Dialogue: 0,0:00:11.30,0:00:13.30,SubtitleMinimal,,0,0,0,,De uns dólares, eu não sei se é pra estudante
+Dialogue: 0,0:00:13.30,0:00:15.30,SubtitleMinimal,,0,0,0,,Ou também dá pra empresa
+Dialogue: 0,0:00:15.30,0:00:19.30,SubtitleMinimal,,0,0,0,,Que eles são alguns dólares pra pessoas selecionadas que tem presas
+Dialogue: 0,0:00:19.30,0:00:21.30,SubtitleMinimal,,0,0,0,,São estudantes lá nos outros países
+Dialogue: 0,0:00:21.30,0:00:23.30,SubtitleMinimal,,0,0,0,,E aí que acontece?
+Dialogue: 0,0:00:23.30,0:00:27.30,SubtitleMinimal,,0,0,0,,Essas pessoas que ela fazem, elas criam empresas verdadeiras
+Dialogue: 0,0:00:27.30,0:00:30.30,SubtitleMinimal,,0,0,0,,Ou fingentes, sim estudantes verdadeiras
+Dialogue: 0,0:00:30.30,0:00:33.30,SubtitleMinimal,,0,0,0,,Pega um valor, por exemplo, de 400 dólares
+Dialogue: 0,0:00:33.30,0:00:36.30,SubtitleMinimal,,0,0,0,,Que essas empresas elas dão pra estudante
+Dialogue: 0,0:00:36.30,0:00:38.30,SubtitleMinimal,,0,0,0,,E coloca aqui pra ver, depois que eu falei
+Dialogue: 0,0:00:38.30,0:00:40.30,SubtitleMinimal,,0,0,0,,É um mercado meio tenebroso
+Dialogue: 0,0:00:40.30,0:00:42.30,SubtitleMinimal,,0,0,0,,Tipo assim, por isso que eu falo
+Dialogue: 0,0:00:42.30,0:00:44.30,SubtitleMinimal,,0,0,0,,É mais tudo, essa China que faz isso
+Dialogue: 0,0:00:44.30,0:00:47.30,SubtitleMinimal,,0,0,0,,Então, por exemplo, todas essas sapiens que você vê que é barata
+Dialogue: 0,0:00:47.30,0:00:48.30,SubtitleMinimal,,0,0,0,,É tudo esse jeito
+Dialogue: 0,0:00:48.30,0:00:51.30,SubtitleMinimal,,0,0,0,,É tudo tipo assim, ó, você tem uma ideia, eu acho que dá pra ver por aqui
+Dialogue: 0,0:00:51.30,0:00:54.30,SubtitleMinimal,,0,0,0,,Quando você eu clica em Create, a prei, que é aí
+Dialogue: 0,0:00:54.30,0:00:55.00,SubtitleMinimal,,0,0,0,,A AWS, AWS, eu acho que que é o domicê

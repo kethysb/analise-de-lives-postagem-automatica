@@ -1,0 +1,38 @@
+[Script Info]
+Title: Wendell Preset Captions
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,2,10,10,120,1
+Style: Highlight,Arial,20,&H0000FFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,3,2,10,10,120,1
+Style: TitleHeader,Arial,22,&H0000E6FF,&H0000E6FF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,3,3,8,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:01:45.00,TitleHeader,,0,0,0,,{\b1\c&H0000FFFF&}ABANDONEI A PSICOLOGIA PARA VIVER DE IA E PROGRAMACAO{\b0}
+Dialogue: 0,0:00:00.92,0:00:04.28,Default,,0,0,0,,por ti, tipo assim, eu sempre aprendi de um jeito diferente
+Dialogue: 0,0:00:04.84,0:00:08.68,Default,,0,0,0,,e aí, quando eu lançou, ai eu aprendi a aprender do jeito certo
+Dialogue: 0,0:00:08.68,0:00:12.48,Default,,0,0,0,,eu comecei a estudar também baseado em evidências, coisas, tipo tudo por artigos científicos
+Dialogue: 0,0:00:13.20,0:00:19.00,Default,,0,0,0,,e aprendi a pesquisar as coisas da maneira certa, tipo assim, não indo pra zonda, certo, tipo assim, que todo mundo vai
+Dialogue: 0,0:00:19.16,0:00:21.96,Default,,0,0,0,,aprender a usar, tipo assim, coisas escondidas
+Dialogue: 0,0:00:22.28,0:00:24.20,Default,,0,0,0,,minha cabeça mudou de um jeito, cara
+Dialogue: 0,0:00:24.20,0:00:26.36,Default,,0,0,0,,tipo assim, eu aprendi isso da melhor
+Dialogue: 0,0:00:26.84,0:00:32.60,Default,,0,0,0,,prova de qualquer prova, eu, eu tipo passo de boa, tipo parece que eu virei uma outra pessoa
+Dialogue: 0,0:00:32.92,0:00:37.60,Default,,0,0,0,,quando você aprendia a usar e a ver, quando você aprendia os segredos das coisas
+Dialogue: 0,0:00:37.60,0:00:40.60,Default,,0,0,0,,parece que até que eu estou falando, tipo, cult, não, você aprendi a segura da vida
+Dialogue: 0,0:00:40.96,0:00:45.28,Default,,0,0,0,,mas, tipo, realmente, minha cabeça mudou, sabe, parece que eu fiquei, não sei se eu fiquei mais inteligente
+Dialogue: 0,0:00:45.72,0:00:47.80,Default,,0,0,0,,mas eu fiquei muito mais esperta pra muita coisa
+Dialogue: 0,0:00:48.28,0:00:53.32,Default,,0,0,0,,e a chinesa seria essa melhor coisa de tipo assim, que mano, de tipo assim, que
+Dialogue: 0,0:00:53.96,0:01:01.24,Default,,0,0,0,,é uma iat que, tipo assim, está bem no passado, é GLM5.2, está lindo, está barato
+Dialogue: 0,0:01:01.24,0:01:02.76,Default,,0,0,0,,e o Kimi K3
+Dialogue: 0,0:01:03.64,0:01:09.48,Default,,0,0,0,,é que no K3, o Kimi K3, fala, que é o pensor, que são ansiosos, mano, sim, mas o foda, cara
+Dialogue: 0,0:01:10.28,0:01:17.24,Default,,0,0,0,,ai que não dá a mudar muito, só se você tiver muito dinheiro, você já viu pra até esse Kimi K3, o seu computador
+Dialogue: 0,0:01:17.32,0:01:21.48,Default,,0,0,0,,na verdade, você já viu pra ver, tem o GLM5, com os dois com o seu computador
+Dialogue: 0,0:01:21.48,0:01:25.08,Default,,0,0,0,,você tem que ter um PC de 50 mil contos
+Dialogue: 0,0:01:25.48,0:01:28.44,Default,,0,0,0,,se não aumentar, já usou o loveio com essa semana
+Dialogue: 0,0:01:30.36,0:01:36.52,Default,,0,0,0,,eu não gosto do loveio, tipo assim, eu acho muito mais, tipo assim, de usar outras coisas pra fazer
+Dialogue: 0,0:01:37.16,0:01:41.80,Default,,0,0,0,,mas eu já ouvi falar da sua extensão, eu já fiz ela parecida com outras

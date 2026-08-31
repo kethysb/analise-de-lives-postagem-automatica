@@ -1,0 +1,52 @@
+[Script Info]
+Title: Wendell Preset Captions
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,2,10,10,120,1
+Style: Highlight,Arial,20,&H0000FFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,3,2,10,10,120,1
+Style: TitleHeader,Arial,22,&H0000E6FF,&H0000E6FF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,3,3,8,10,10,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:01:30.00,TitleHeader,,0,0,0,,{\b1\c&H0000FFFF&}72% DE DESCONTO OFICIAL EM APIS DO GEMINI E GPT-4{\b0}
+Dialogue: 0,0:00:00.00,0:00:03.30,Default,,0,0,0,,Mano, eu tô achando que eles desabilitaram por um tempo
+Dialogue: 0,0:00:03.30,0:00:05.30,Default,,0,0,0,,É a compra
+Dialogue: 0,0:00:05.30,0:00:09.30,Default,,0,0,0,,Porque aquela hora que eu fiz o vídeo tava aparecendo, né?
+Dialogue: 0,0:00:09.30,0:00:11.30,Default,,0,0,0,,Agora não tá aparecendo mais pra comprar
+Dialogue: 0,0:00:13.30,0:00:15.30,Default,,0,0,0,,Ele é confusando que essa é do Centro Eur
+Dialogue: 0,0:00:15.30,0:00:17.30,Default,,0,0,0,,Você queria apair e após isso faz pagamento
+Dialogue: 0,0:00:17.30,0:00:20.30,Default,,0,0,0,,Então, eles, se você queria comprar, eles dão 5 dólares
+Dialogue: 0,0:00:20.30,0:00:22.30,Default,,0,0,0,,Fela vez, eles estavam dando, né?
+Dialogue: 0,0:00:22.30,0:00:25.30,Default,,0,0,0,,Se você quiser criar conta pra você ver, eles estavam dando, né?
+Dialogue: 0,0:00:26.30,0:00:28.30,Default,,0,0,0,,Agora, eu não sei como tá funcionando
+Dialogue: 0,0:00:28.30,0:00:30.30,Default,,0,0,0,,Você eles estão dando um pouco de graça
+Dialogue: 0,0:00:30.30,0:00:32.30,Default,,0,0,0,,Mas eles desactivaram agora
+Dialogue: 0,0:00:32.30,0:00:35.30,Default,,0,0,0,,Mas você faz o a compra para curecer site aqui
+Dialogue: 0,0:00:35.30,0:00:37.30,Default,,0,0,0,,E aí, as APIs você pega aqui, ó
+Dialogue: 0,0:00:37.30,0:00:39.30,Default,,0,0,0,,Aí vai ter esse grupo aqui de API
+Dialogue: 0,0:00:39.30,0:00:41.30,Default,,0,0,0,,Você vem aqui, ó, em Create API
+Dialogue: 0,0:00:41.30,0:00:43.30,Default,,0,0,0,,Escolha o grupo que seria o Feibel 5 ou seu
+Dialogue: 0,0:00:43.30,0:00:46.30,Default,,0,0,0,,É, Criote, assim, aqui você pode colocar a limite aí
+Dialogue: 0,0:00:46.30,0:00:47.30,Default,,0,0,0,,Você cria aqui, ó
+Dialogue: 0,0:00:47.30,0:00:49.30,Default,,0,0,0,,Deixa eu colocar essa precisa
+Dialogue: 0,0:00:49.30,0:00:51.30,Default,,0,0,0,,E vem aqui, ó, esse aqui
+Dialogue: 0,0:00:51.30,0:00:53.30,Default,,0,0,0,,Aí você pode usar aqui
+Dialogue: 0,0:00:53.30,0:00:56.30,Default,,0,0,0,,Outra que também tá, é muito boa que eu ainda não testei
+Dialogue: 0,0:00:56.30,0:00:59.30,Default,,0,0,0,,Então, se for golpe, eu não vou saber essa daqui, ó
+Dialogue: 0,0:00:59.30,0:01:00.30,Default,,0,0,0,,Que eu tava testando
+Dialogue: 0,0:01:00.30,0:01:02.30,Default,,0,0,0,,Ela também tem uns preços muito baratos
+Dialogue: 0,0:01:02.30,0:01:04.30,Default,,0,0,0,,Deixa eu entrar pra vocês ver
+Dialogue: 0,0:01:04.30,0:01:05.30,Default,,0,0,0,,Aqui, ó
+Dialogue: 0,0:01:06.30,0:01:07.30,Default,,0,0,0,,Dá pra ver
+Dialogue: 0,0:01:08.30,0:01:13.30,Default,,0,0,0,,Por exemplo, o Gemini 3.6 Flash tá com 70% de discount API
+Dialogue: 0,0:01:13.30,0:01:16.30,Default,,0,0,0,,O 2.5% pra test, TTDS
+Dialogue: 0,0:01:16.30,0:01:18.30,Default,,0,0,0,,Que é aquele lá por volta
+Dialogue: 0,0:01:18.30,0:01:20.30,Default,,0,0,0,,30% de discount
+Dialogue: 0,0:01:20.30,0:01:24.30,Default,,0,0,0,,O chatia PT é... tá 72% de discount
+Dialogue: 0,0:01:24.30,0:01:27.30,Default,,0,0,0,,E o chatia PT é só o tá 72%
+Dialogue: 0,0:01:27.30,0:01:29.30,Default,,0,0,0,,Ou seja, você paga tipo literalmente

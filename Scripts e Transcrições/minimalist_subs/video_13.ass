@@ -1,0 +1,30 @@
+[Script Info]
+Title: Minimalist Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: SubtitleMinimal,Arial,68,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,60,60,320,1
+Style: TitleMinimal,Arial,52,&H0000FFFF,&H00FFFFFF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,4,2,8,60,60,1650,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:42.00,TitleMinimal,,0,0,0,,O ALMOCO GRATIS VAI ACABAR
+Dialogue: 0,0:00:00.00,0:00:02.72,SubtitleMinimal,,0,0,0,,quando ele fatinha como terluz, eu até achava que era
+Dialogue: 0,0:00:03.00,0:00:05.96,SubtitleMinimal,,0,0,0,,mas eu acho que não, o que que é foda do cloud são as skills
+Dialogue: 0,0:00:06.24,0:00:11.04,SubtitleMinimal,,0,0,0,,mas se você for experto e saber usar as coisas, você consegue mais esse foda
+Dialogue: 0,0:00:11.64,0:00:14.16,SubtitleMinimal,,0,0,0,,é tipo assim, usando e as opensores, cara
+Dialogue: 0,0:00:14.52,0:00:16.84,SubtitleMinimal,,0,0,0,,e opensores, se você não quer
+Dialogue: 0,0:00:18.28,0:00:20.08,SubtitleMinimal,,0,0,0,,gente entendam, me enama coisa
+Dialogue: 0,0:00:20.36,0:00:21.68,SubtitleMinimal,,0,0,0,,a gente tá
+Dialogue: 0,0:00:22.12,0:00:25.84,SubtitleMinimal,,0,0,0,,comendo o almoço grátis, a gente tá comendo o almoço grátis
+Dialogue: 0,0:00:26.04,0:00:27.76,SubtitleMinimal,,0,0,0,,mas esse almoço grátis não vai durar pra sempre
+Dialogue: 0,0:00:28.48,0:00:32.96,SubtitleMinimal,,0,0,0,,então, se prepara, comece a usar o almoço grátis, não usem
+Dialogue: 0,0:00:33.32,0:00:37.40,SubtitleMinimal,,0,0,0,,tipo assim, não, não se acostuma em com cloud de cloud, não se acostuma, cara
+Dialogue: 0,0:00:37.40,0:00:39.00,SubtitleMinimal,,0,0,0,,eu falando pra vocês, vai ficar caro
+Dialogue: 0,0:00:39.32,0:00:42.00,SubtitleMinimal,,0,0,0,,vai ficar caro, só vai sobrar as engenhas, não se acostuma, cair a chinesa, já tomei costumando

@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,54,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,0,2,80,80,320,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.79,Default,,0,0,0,,Tipo assim, IA em si, porque eu acho que\Naté no mercado, não existe ainda emprego pra IA.
+Dialogue: 0,0:00:00.79,0:00:02.79,Default,,0,0,0,,Agora, o que que eu recomendo? Depende\Nmuito da área que você for seguir.
+Dialogue: 0,0:00:02.79,0:00:06.79,Default,,0,0,0,,Por exemplo, você pode seguir da área\Nde programação, trabalhar com banco de dados,
+Dialogue: 0,0:00:06.79,0:00:08.79,Default,,0,0,0,,eu gosto bastante dessa área.
+Dialogue: 0,0:00:08.79,0:00:12.79,Default,,0,0,0,,Eu também trabalho com alguns clientes que\Neu fiz a automação de algum sistema, supera-loja.
+Dialogue: 0,0:00:12.79,0:00:17.79,Default,,0,0,0,,Às vezes você pode, tipo assim, por exemplo,\Nperceber alguns padrões erradas em empresas e tentar resolver.
+Dialogue: 0,0:00:17.79,0:00:22.79,Default,,0,0,0,,Que é uma coisa que eu tô tentando, tipo\Nassim, trabalhar bastante sobre isso, que eu acho muito legal.
+Dialogue: 0,0:00:22.79,0:00:25.79,Default,,0,0,0,,Também tem como você,\Npor exemplo, trabalhar com social-mídia,
+Dialogue: 0,0:00:25.79,0:00:28.79,Default,,0,0,0,,porque você pode, tipo, aprender algumas\Ncoisas de IA e fazer automatizado.
+Dialogue: 0,0:00:28.79,0:00:32.79,Default,,0,0,0,,Depende muito do seu caminho, tipo assim,\Ndepende da área que você quer seguir.
+Dialogue: 0,0:00:32.79,0:00:38.79,Default,,0,0,0,,Eu acho que hoje em dia você nem precisa, tipo assim,\No que você tem que fazer é, tipo assim, aprender IA
+Dialogue: 0,0:00:38.79,0:00:40.79,Default,,0,0,0,,e aprender o controle\Ndo que você gosta.
+Dialogue: 0,0:00:40.79,0:00:42.79,Default,,0,0,0,,Tipo assim, tentar juntar os dois.
+Dialogue: 0,0:00:42.79,0:00:44.79,Default,,0,0,0,,Depende muito do que\Nvocê quer, tipo, seguir.
+Dialogue: 0,0:00:44.79,0:00:48.79,Default,,0,0,0,,Se você quer seguir programação, se você\Nquer seguir alguma área mais criativa, depende muito.
+Dialogue: 0,0:00:48.79,0:00:50.00,Default,,0,0,0,,Eu acho que hoje em dia\NIA tá em todos os trabalhos.
